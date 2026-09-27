@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Python artifacts (if used later)
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local database / credential files
+.env
+*.log
